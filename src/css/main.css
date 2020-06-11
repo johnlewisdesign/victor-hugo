@@ -19,7 +19,9 @@ body {
   justify-content: center;
   text-align: center;
   background-color: #282c34;
-  color: white;
+  background: url(http://www.johnlewisdesign.com/img/portwrinkle-john-lewis-design.jpg);
+  background-size: cover;
+  color: #ff9016;
 }
 
 a {
@@ -29,4 +31,7 @@ a {
 
 .content {
   padding: 0 32px;
+}
+h1, h2, h3, h4, h5 {
+  font-family: 'Cairo', sans-serif;
 }
